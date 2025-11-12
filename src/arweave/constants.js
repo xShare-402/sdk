@@ -1,0 +1,1 @@
+export const turboNetwork = {main:"https://turbo.ardrive.io", payment:"https://payment.ardrive.io"};
