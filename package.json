@@ -1,6 +1,6 @@
 {
   "name": "@xshare-402/sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "x402 communication protocol to place bids on a decentralized ads network running on X",
   "main": "src/index.js",
   "publishConfig": {

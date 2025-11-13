@@ -7,7 +7,7 @@ import { searchAssets,buildTransaction } from "./utils/solana.js";
 import { optimalBloomParameters, buildMetadata } from "./utils/index.js";
 import { TurboUploader } from "./arweave/index.js";
 import bs58 from "bs58";
-const simulate = 1;
+const simulate = 0;
 export class XShare402 {
 
     programId = new PublicKey(programId)
